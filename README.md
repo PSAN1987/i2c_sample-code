@@ -1,5 +1,5 @@
 - I2C code for Raspberry Pie4 with C language
-- It can show user option menue " All regsiter read ", " One register write ", " One register read ". 
+- It can show user option menue " All regsiter read ", " One register write " and " One register read ". 
 - Using WiringPi library so need to install when you use it
 Ex: 
 cd /tmp
